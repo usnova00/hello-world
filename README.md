@@ -1,5 +1,5 @@
 # hello-world
-Mining
+
 
 Hi My name is RaiN
 
